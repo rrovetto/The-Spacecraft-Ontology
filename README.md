@@ -5,3 +5,4 @@ Alternative titles are:
 
 
 ## Copyright
+© 2018-2021, Robert John Rovetto. All right reserved. Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
